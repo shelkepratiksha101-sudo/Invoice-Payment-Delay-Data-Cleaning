@@ -72,6 +72,6 @@ In the upcoming phases, the cleaned dataset will be used for:
 - Building machine learning models for payment delay prediction
 
 ### Author
-**Pratiksha Shelke**
+**Pratiksha More**
 
-Data Analytics Intern  
+  
